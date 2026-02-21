@@ -2,12 +2,14 @@
 
 ### 1. v.json 格式
 
+```
 {
   "urls": [
     {"name": "饭太硬 (首选)", "url": "http://www.饭太硬.com/tv"},
     {"name": "肥猫 (资源多)", "url": "http://肥猫.com"}
   ]
 }
+```
 
 ### 2. jsDelivr 加速
 
