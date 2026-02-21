@@ -1,11 +1,12 @@
 {
   "urls": [
-    {"name": "饭太硬 (首选/最稳)", "url": "http://www.饭太硬.com/tv"},
-    {"name": "肥猫 (资源多/更新快)", "url": "http://肥猫.com"},
-    {"name": "OK资源 (经典备用)", "url": "http://ok321.top/tv"},
-    {"name": "荷城茶秀 (老牌稳定)", "url": "http://hechengchaxiu.com/tv.json"},
-    {"name": "菜妮丝 (线路优质)", "url": "https://tvbox.cainisi.cf"},
+    {"name": "饭太硬 (首选/影视直播全能)", "url": "http://www.饭太硬.com/tv"},
+    {"name": "肥猫 (电影最全)", "url": "http://肥猫.com"},
+    {"name": "OK jack", "url": "https://jihulab.com/okcaptain/kko/raw/main/ok.txt"},
+    {"name": "王二小放牛娃", "url": "http://tvbox.王二小放牛娃.xyz"},
+    {"name": "摸鱼儿", "url": "http://我不是.摸鱼儿.top"},
+    {"name": "神器", "url": "https://神器每日推送.tk/pz.json"},
     {"name": "道长 (线路多)", "url": "https://pastebin.com/raw/gtbKvnE1"},
-    {"name": "饭太硬直播 (纯直播)", "url": "http://www.饭太硬.com/live.txt"}
+    {"name": "专属直播 (中天新闻在此)", "url": "https://fastly.jsdelivr.net/gh/jiujiubad/tv-old-people@main/live.json"}
   ]
 }
