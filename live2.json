@@ -1,0 +1,20 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV-1 综合
+http://39.135.138.58:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV-13 新闻
+http://39.134.115.163:8080/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV-14 少儿
+http://39.134.115.163:8080/PLTV/88888888/224/3221225829/index.m3u8
+
+#EXTINF:-1 tvg-id="中天新闻" group-title="精选要闻",中天新闻(线路1)
+https://live.itv.ink/api/ytb?id=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="中天新闻" group-title="精选要闻",中天新闻(线路2)
+http://hw-itv.itv.ink/ytb/vr3XyVCR4T0/index.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视中文台" group-title="精选要闻",凤凰中文
+http://hw-itv.itv.ink/phoenix/chinese.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" group-title="精选要闻",凤凰资讯
+http://hw-itv.itv.ink/phoenix/info.m3u8
+
+#EXTINF:-1 tvg-id="TVBS新闻" group-title="精选要闻",TVBS新闻
+http://hw-itv.itv.ink/ytb/V07v_v3L_lY/index.m3u8
