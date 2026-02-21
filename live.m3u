@@ -466,7 +466,8 @@ https://ytb.178.indevs.in/?id=7j92Myu2wzg
 https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="• Juli 「精選」",CGTN「YouTube」
 https://ytb.178.indevs.in/?id=BOy2xDU1LC8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" group-title="• Juli 「精選」" ,中天新聞「YouTube」
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" group-title="• 精選",中天新聞
+#EXTVLOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ytb.178.indevs.in/?id=vr3XyVCR4T0
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="• Juli 「精選」",TVBS「YouTube」
 https://ytb.178.indevs.in/?id=o_-hSMgpAzs
