@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV-1 综合
+http://iptv.sc99.top/pvt/m/1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV-13 新闻
+http://iptv.sc99.top/pvt/m/13.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV-14 少儿
+http://iptv.sc99.top/pvt/m/14.m3u8
+
+#EXTINF:-1 tvg-id="中天新闻" group-title="精选新闻1",中天新闻 (直连1)
+http://202.162.108.12:1935/live/ch01/playlist.m3u8
+#EXTINF:-1 tvg-id="中天新闻" group-title="精选新闻1",中天新闻 (直连2)
+http://202.162.108.12:1935/live/ch03/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" group-title="精选新闻",凤凰中文
+http://103.233.254.162/live/phtv_cn_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" group-title="精选新闻",凤凰资讯
+http://103.233.254.162/live/phtv_info_hd/playlist.m3u8
+
+#EXTINF:-1,中天新闻测试
+http://3.224.173.230/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="中天新闻" group-title="测试频道",中天新闻 (直连测试)
+https://www.iyouhun.com/tv/zb
